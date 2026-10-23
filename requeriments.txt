@@ -1,2 +1,0 @@
-staypresent[prod]
-discord.py
